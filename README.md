@@ -1,7 +1,6 @@
 ### Olá! Prazer em te conhecer! Eu sou o Arthur1786 👋
 
 - 🔭 Não possuo experência profissional
-- 🌱 Estudando PHP e java-script
 - 👯 Contato via e-amil: arthurhp2003@gmail.com
 - 💬 Pergunte-me sobre meus interesses.
 
