@@ -1,6 +1,6 @@
 ### Olá! Prazer em te conhecer! Eu sou o Arthur1786 👋
 
-- 🔭 Não possuo experência profissional
+- 🔭 Sou analista e desenvolvedor Jira e Confluence
 - 👯 Contato via e-amil: arthurhp2003@gmail.com
 - 💬 Pergunte-me sobre meus interesses.
 
