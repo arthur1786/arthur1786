@@ -1,8 +1,9 @@
 ### Olá! Prazer em te conhecer! Eu sou o Arthur1786 👋
 
 - 🔭 Sou analista e desenvolvedor Jira e Confluence
-- 👯 Contato via e-mail: arthurhp2003@gmail.com
-- 💬 Pergunte-me sobre meus interesses.
+- 🔭 Aspirante a desenvolvedor FullStack. C#, Java, Groovy, Angular, TypeScript e JavaScript.
+- 👯 Contato via e-mail: arthurhp2003@gmail.com, recharthur333@gmail.com
+- 💬 Pergunte-me sobre meus interesses. Prazer em te conhecer!
 
 <div>
   <a href="https://github.com/arthur1786">
