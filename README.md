@@ -1,9 +1,9 @@
 ### Hello! Nice to meet you. I'am Arthur. 👋
 
-- 🔭 Sou analista Jira e Confluence 
-- 🔭 Possuo conhecimento em Linguagens de Desenvolvimento como c#, Groovy, Java, Java-Script e Type-Script.
-- 👯 Contato via e-mail: arthurhp2003@gmail.com ou recharthur333@gmail.com
-- 💬 Pergunte-me sobre meus interesses. Prazer em te conhecer!
+🔭 Professional in Atlassian tools, such as Jira Administrator and DataCenter and Server migration agent to Cloud. I work on configuring and managing Atlassian systems for various companies in the market, using plugins such as ScriptRunner, Jira Misc Workflow Extensions (JMWE), Jira Misc Workflow Toolbox (JWT) and other various applications used in the Jira and Confluence ecosystem.
+🔭 I have knowledge in Development Languages such as C#, Groovy, Java, JavaScript, and TypeScript.
+👯 Contact me via email: arthurhp2003@gmail.com or recharthur333@gmail.com
+💬 Ask me about my interests. Nice to meet you!
 
 <div>
   <a href="https://github.com/arthur1786">
