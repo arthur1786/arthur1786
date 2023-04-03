@@ -1,10 +1,11 @@
 ### Hello! Nice to meet you. I'am Arthur. 👋
 
-🔭 Professional in Atlassian tools, such as Jira Administrator and DataCenter and Server migration agent to Cloud. I work on configuring and managing Atlassian systems for various companies in the market, using plugins such as ScriptRunner, Jira Misc Workflow Extensions (JMWE), Jira Misc Workflow Toolbox (JWT), EazyBI for advanced reports and other various applications used in the Jira and Confluence ecosystem.
+🔭 Professional in Atlassian tools, such as Jira Administrator and DataCenter and Server migration agent to Cloud. I work on configuring and managing Atlassian systems for various companies in the market, using plugins such as ScriptRunner, Jira Misc Workflow Extensions (JMWE), Jira Misc Workflow Toolbox (JWT), EazyBI for advanced reports and other various add-ons used in Atlassian Ecossystem.
+
 
 🔭 I have knowledge in Development Languages such as C#, Groovy, Java, JavaScript, and TypeScript.
 
-👯 Contact me via email: arthurhp2003@gmail.com or recharthur333@gmail.com
+👯 Contact me via email: arthur.rech.consultoria@gmail.com
 
 💬 Ask me about my interests. Nice to meet you!
 
