@@ -1,4 +1,4 @@
-### Hello! Nice to meet you. I'am Arthur. 👋
+### Hello, I'am Arthur. 👋
 
 <div>
   <a href="https://github.com/arthur1786">
